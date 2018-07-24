@@ -1,0 +1,11 @@
+body {
+    color: rgb(53,53,53);
+    text-align: center;
+}
+
+header {
+    text-align: center;
+    border: 5px solid red;
+}
+
+
